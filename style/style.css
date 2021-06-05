@@ -1,0 +1,37 @@
+* {
+    font-family: Poppins;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-top: 60px;
+}
+
+.container .table-container {
+    margin-top: 32px;
+}
+
+.container .table-container .btn-cust {
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+
+.container .table-container .btn-cust .btn-text-cust {
+    padding-left: 10px;
+}
+
+.edit-view button {
+    margin-right: 5px;
+}
+
+/* insert */
+
+.container .insert-title {
+    margin-bottom: 32px;
+}
+
+.hidden {
+    display: none !important;
+}
